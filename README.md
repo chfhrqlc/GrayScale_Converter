@@ -15,3 +15,7 @@ To create an `.exe` file from this script, follow the steps below.
 pip install pyinstaller 
 
 pyinstaller --noconsole --onefile --clean --noupx --name "Grayscale" ConverTIF
+
+
+#### Download the Grayscale Transducer executable
+👉 [Grayscale Converter v1.0 Download](https://github.com/chfhrqlc/GrayScale_Converter/releases/latest)
