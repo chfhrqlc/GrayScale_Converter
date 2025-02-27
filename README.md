@@ -4,9 +4,7 @@
 A simple Python script to convert TIF images to grayscale using a GUI.
 
 ## Cloning 
-<code>
-git clone https://github.com/chfhrqlc/GrayScale_Converter.git
-</code>
+<code>git clone https://github.com/chfhrqlc/GrayScale_Converter.git</code>
 
 
 ### Convert to Executable File
